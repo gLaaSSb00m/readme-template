@@ -61,7 +61,7 @@ http://www.google.com
 
 [websitelink]: http://www.google.com
 
-![profile](./images/capture.jpg)
+![profile](./images/capture.JPG)
 
 😊
 
